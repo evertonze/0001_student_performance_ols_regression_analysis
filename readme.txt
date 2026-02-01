@@ -1,0 +1,1 @@
+Model used for the Kaggle competition; all stages of the process are explained within the notebook itself.
